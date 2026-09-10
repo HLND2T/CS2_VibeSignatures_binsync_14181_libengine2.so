@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475528Z
+last_change = 2026-09-10T18:36:44.776988Z
 addr = 0x5241e0
 size = 0x82
 name = "CServerSideClientBase_GetPlayerInfo"
+type = "long long"
 
 [header]
 name = "CServerSideClientBase_GetPlayerInfo"
 addr = 0x5241e0
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475173Z
+last_change = 2026-09-10T18:36:44.776132Z
 addr = 0x3f48e0
 size = 0x10c
 name = "CMapListService_ParseMapOptions"
+type = "long long"
 
 [header]
 name = "CMapListService_ParseMapOptions"
 addr = 0x3f48e0
+type = "long long"
 
 [header.args]

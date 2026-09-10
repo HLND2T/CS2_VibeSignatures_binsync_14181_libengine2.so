@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475327Z
+last_change = 2026-09-10T18:36:44.776502Z
 addr = 0x4db820
 size = 0x15
 name = "CMsgSource2NetworkFlowQuality_PrintStats"
+type = "long long"
 
 [header]
 name = "CMsgSource2NetworkFlowQuality_PrintStats"
 addr = 0x4db820
+type = "long long"
 
 [header.args]

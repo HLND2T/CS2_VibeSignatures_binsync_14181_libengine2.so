@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475284Z
+last_change = 2026-09-10T18:36:44.776410Z
 addr = 0x4b17c0
 size = 0x132
 name = "CNetworkGameClientBase_ProcessCmdKeyValues"
+type = "long long"
 
 [header]
 name = "CNetworkGameClientBase_ProcessCmdKeyValues"
 addr = 0x4b17c0
+type = "long long"
 
 [header.args]

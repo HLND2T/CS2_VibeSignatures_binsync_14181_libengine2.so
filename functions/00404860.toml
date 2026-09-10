@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475196Z
+last_change = 2026-09-10T18:36:44.776193Z
 addr = 0x404860
 size = 0xbb
 name = "CNetworkServerService_OnServerPollNetworking"
+type = "long long"
 
 [header]
 name = "CNetworkServerService_OnServerPollNetworking"
 addr = 0x404860
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475271Z
+last_change = 2026-09-10T18:36:47.145555Z
 addr = 0x4812c0
 size = 0x2d8
 name = "CDemoRecorder_ParseMessage"
+type = "long long"
 
 [header]
 name = "CDemoRecorder_ParseMessage"
 addr = 0x4812c0
+type = "long long"
 
 [header.args]

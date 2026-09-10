@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475475Z
+last_change = 2026-09-10T18:36:44.776855Z
 addr = 0x519040
 size = 0x20
 name = "CEngineServer_ServerCommand"
+type = "long long"
 
 [header]
 name = "CEngineServer_ServerCommand"
 addr = 0x519040
+type = "long long"
 
 [header.args]

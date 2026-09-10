@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475145Z
+last_change = 2026-09-10T18:36:46.822545Z
 addr = 0x39f830
 size = 0x980
 name = "CLoopTypeSimple_FrameUpdate"
+type = "long long"
 
 [header]
 name = "CLoopTypeSimple_FrameUpdate"
 addr = 0x39f830
+type = "long long"
 
 [header.args]

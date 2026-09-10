@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475092Z
+last_change = 2026-09-10T18:36:44.775913Z
 addr = 0x366ea0
 size = 0x194
 name = "CEngineServiceMgr_PrintStatus"
+type = "long long"
 
 [header]
 name = "CEngineServiceMgr_PrintStatus"
 addr = 0x366ea0
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475143Z
+last_change = 2026-09-10T18:36:44.776030Z
 addr = 0x39a3c0
 size = 0xcb
 name = "CLoopTypeSimpleService_OnLoopActivate"
+type = "unsigned long long **"
 
 [header]
 name = "CLoopTypeSimpleService_OnLoopActivate"
 addr = 0x39a3c0
+type = "unsigned long long **"
 
 [header.args]

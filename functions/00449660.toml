@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475266Z
+last_change = 2026-09-10T18:36:44.776358Z
 addr = 0x449660
 size = 0x34e
 name = "CSplitScreenService_LoadUserConfiguration"
+type = "long long"
 
 [header]
 name = "CSplitScreenService_LoadUserConfiguration"
 addr = 0x449660
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475419Z
+last_change = 2026-09-10T18:36:44.776724Z
 addr = 0x507ae0
 size = 0x219
 name = "CNetworkGameServerBase_CreateFakeClient"
+type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_CreateFakeClient"
 addr = 0x507ae0
+type = "long long"
 
 [header.args]

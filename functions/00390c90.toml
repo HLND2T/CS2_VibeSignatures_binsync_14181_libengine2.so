@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475136Z
+last_change = 2026-09-10T18:36:44.776014Z
 addr = 0x390c90
 size = 0xe7
 name = "CLoopTypeClientServer_DeactivateLoop"
+type = "long long"
 
 [header]
 name = "CLoopTypeClientServer_DeactivateLoop"
 addr = 0x390c90
+type = "long long"
 
 [header.args]

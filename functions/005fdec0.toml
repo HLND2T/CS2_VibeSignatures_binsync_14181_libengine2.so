@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475598Z
+last_change = 2026-09-10T18:36:44.777163Z
 addr = 0x5fdec0
 size = 0x1d8
 name = "ConnectInterfaces"
+type = "long long"
 
 [header]
 name = "ConnectInterfaces"
 addr = 0x5fdec0
+type = "long long"
 
 [header.args]

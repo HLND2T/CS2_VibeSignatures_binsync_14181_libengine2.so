@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475107Z
+last_change = 2026-09-10T18:36:44.775946Z
 addr = 0x36cc40
 size = 0x217
 name = "CEngineServiceMgr_RegisterLoopMode"
+type = "long long *"
 
 [header]
 name = "CEngineServiceMgr_RegisterLoopMode"
 addr = 0x36cc40
+type = "long long *"
 
 [header.args]

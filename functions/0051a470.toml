@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475503Z
+last_change = 2026-09-10T18:36:44.776925Z
 addr = 0x51a470
 size = 0xd
 name = "CEngineServer_ShowFrameTimeReport"
+type = "long long"
 
 [header]
 name = "CEngineServer_ShowFrameTimeReport"
 addr = 0x51a470
+type = "long long"
 
 [header.args]

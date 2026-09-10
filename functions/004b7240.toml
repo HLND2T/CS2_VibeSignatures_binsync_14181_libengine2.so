@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475292Z
+last_change = 2026-09-10T18:36:44.776429Z
 addr = 0x4b7240
 size = 0x586
 name = "CNetworkGameClientBase_ProcessSpawnGroup_SetCreationTick"
+type = "long long"
 
 [header]
 name = "CNetworkGameClientBase_ProcessSpawnGroup_SetCreationTick"
 addr = 0x4b7240
+type = "long long"
 
 [header.args]

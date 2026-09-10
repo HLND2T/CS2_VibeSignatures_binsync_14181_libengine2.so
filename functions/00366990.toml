@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475085Z
+last_change = 2026-09-10T18:36:44.775896Z
 addr = 0x366990
 size = 0x7
 name = "CEngineServiceMgr_GetAddonCount"
+type = "long long"
 
 [header]
 name = "CEngineServiceMgr_GetAddonCount"
 addr = 0x366990
+type = "long long"
 
 [header.args]

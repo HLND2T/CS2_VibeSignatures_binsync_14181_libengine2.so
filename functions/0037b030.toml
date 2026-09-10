@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475116Z
+last_change = 2026-09-10T18:36:44.775967Z
 addr = 0x37b030
 size = 0x864
 name = "CLoopTypeClientServer_WritePerfStats"
+type = "long long"
 
 [header]
 name = "CLoopTypeClientServer_WritePerfStats"
 addr = 0x37b030
+type = "long long"
 
 [header.args]

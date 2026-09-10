@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475214Z
+last_change = 2026-09-10T18:36:44.776241Z
 addr = 0x40c640
 size = 0x1c78
 name = "CNetworkServerService_RegisterEventMapInternal"
+type = "long long"
 
 [header]
 name = "CNetworkServerService_RegisterEventMapInternal"
 addr = 0x40c640
+type = "long long"
 
 [header.args]

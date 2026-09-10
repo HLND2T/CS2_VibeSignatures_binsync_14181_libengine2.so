@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475306Z
+last_change = 2026-09-10T18:36:44.776466Z
 addr = 0x4cf780
 size = 0x314
 name = "CNetworkGameClientBase_FinishChangeLevel"
+type = "long long"
 
 [header]
 name = "CNetworkGameClientBase_FinishChangeLevel"
 addr = 0x4cf780
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475495Z
+last_change = 2026-09-10T18:36:44.776906Z
 addr = 0x51a340
 size = 0x60
 name = "CEngineServer_PrecacheGeneric"
+type = "long long"
 
 [header]
 name = "CEngineServer_PrecacheGeneric"
 addr = 0x51a340
+type = "long long"
 
 [header.args]

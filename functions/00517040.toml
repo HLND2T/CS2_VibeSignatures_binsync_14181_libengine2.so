@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475464Z
+last_change = 2026-09-10T18:36:44.776826Z
 addr = 0x517040
 size = 0x17d
 name = "CNetworkGameServer_PrepareForAssetLoad"
+type = "long long"
 
 [header]
 name = "CNetworkGameServer_PrepareForAssetLoad"
 addr = 0x517040
+type = "long long"
 
 [header.args]

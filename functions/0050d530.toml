@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475427Z
+last_change = 2026-09-10T18:36:47.524995Z
 addr = 0x50d530
 size = 0x1ba
 name = "CNetworkGameServerBase_ServerEndSimulate"
+type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_ServerEndSimulate"
 addr = 0x50d530
+type = "long long"
 
 [header.args]

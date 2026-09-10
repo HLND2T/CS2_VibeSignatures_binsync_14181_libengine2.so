@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475551Z
+last_change = 2026-09-10T18:36:44.777048Z
 addr = 0x532600
 size = 0x52b
 name = "CServerSideClientBase_ProcessSplitPlayerConnectInternal"
+type = "long long"
 
 [header]
 name = "CServerSideClientBase_ProcessSplitPlayerConnectInternal"
 addr = 0x532600
+type = "long long"
 
 [header.args]

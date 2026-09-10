@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475337Z
+last_change = 2026-09-10T18:36:44.776527Z
 addr = 0x4e6fb0
 size = 0x3ce
 name = "CNetworkGameClient_ProcessClassInfo"
+type = "long long"
 
 [header]
 name = "CNetworkGameClient_ProcessClassInfo"
 addr = 0x4e6fb0
+type = "long long"
 
 [header.args]

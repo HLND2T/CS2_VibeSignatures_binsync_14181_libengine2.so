@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475532Z
+last_change = 2026-09-10T18:36:44.776998Z
 addr = 0x524d90
 size = 0x1cf
 name = "CServerSideClientBase_ProcessClientInfo"
+type = "long long"
 
 [header]
 name = "CServerSideClientBase_ProcessClientInfo"
 addr = 0x524d90
+type = "long long"
 
 [header.args]

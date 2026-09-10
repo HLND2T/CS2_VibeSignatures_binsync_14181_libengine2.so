@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475308Z
+last_change = 2026-09-10T18:36:44.776471Z
 addr = 0x4cfaa0
 size = 0x263
 name = "CNetworkGameClientBase_StartChangeLevel"
+type = "unsigned int *"
 
 [header]
 name = "CNetworkGameClientBase_StartChangeLevel"
 addr = 0x4cfaa0
+type = "unsigned int *"
 
 [header.args]

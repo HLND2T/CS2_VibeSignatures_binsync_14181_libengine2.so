@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475423Z
+last_change = 2026-09-10T18:36:44.776735Z
 addr = 0x50cce0
 size = 0x405
 name = "CNetworkGameServerBase_SpawnGroupThink"
+type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_SpawnGroupThink"
 addr = 0x50cce0
+type = "long long"
 
 [header.args]

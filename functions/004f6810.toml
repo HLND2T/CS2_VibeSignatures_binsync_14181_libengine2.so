@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475380Z
+last_change = 2026-09-10T18:36:44.776626Z
 addr = 0x4f6810
 size = 0x6d
 name = "CNetworkGameServerBase_GetPassword"
+type = "char *"
 
 [header]
 name = "CNetworkGameServerBase_GetPassword"
 addr = 0x4f6810
+type = "char *"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475446Z
+last_change = 2026-09-10T18:36:44.776782Z
 addr = 0x512e90
 size = 0x11d
 name = "CNetworkGameServerBase_StartHLTVMaster"
+type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_StartHLTVMaster"
 addr = 0x512e90
+type = "long long"
 
 [header.args]

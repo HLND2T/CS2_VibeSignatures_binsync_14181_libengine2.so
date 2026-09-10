@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475451Z
+last_change = 2026-09-10T18:36:44.776792Z
 addr = 0x513400
 size = 0x78
 name = "CNetworkGameServer_CreateNewClient"
+type = "long long"
 
 [header]
 name = "CNetworkGameServer_CreateNewClient"
 addr = 0x513400
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475208Z
+last_change = 2026-09-10T18:36:44.776226Z
 addr = 0x40a850
 size = 0xc9
 name = "CNetworkServerService_GetServerSerializersCRC"
+type = "long long"
 
 [header]
 name = "CNetworkServerService_GetServerSerializersCRC"
 addr = 0x40a850
+type = "long long"
 
 [header.args]

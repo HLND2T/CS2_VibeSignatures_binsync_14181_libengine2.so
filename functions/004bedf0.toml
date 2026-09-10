@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475298Z
+last_change = 2026-09-10T18:36:44.776445Z
 addr = 0x4bedf0
 size = 0x1ac
 name = "CNetworkGameClientBase_DeferActivate"
+type = "long long (__fastcall *)(long long *, unsigned long long)"
 
 [header]
 name = "CNetworkGameClientBase_DeferActivate"
 addr = 0x4bedf0
+type = "long long (__fastcall *)(long long *, unsigned long long)"
 
 [header.args]

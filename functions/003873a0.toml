@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475133Z
+last_change = 2026-09-10T18:36:46.790182Z
 addr = 0x3873a0
 size = 0x70f
 name = "CLoopTypeClientServer_LoopTypeInit"
+type = "long long"
 
 [header]
 name = "CLoopTypeClientServer_LoopTypeInit"
 addr = 0x3873a0
+type = "long long"
 
 [header.args]

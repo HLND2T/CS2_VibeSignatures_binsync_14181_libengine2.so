@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475592Z
+last_change = 2026-09-10T18:36:44.777148Z
 addr = 0x5b1e30
 size = 0x490
 name = "CHLTVBroadcast_RecordSnapshot"
+type = "long long"
 
 [header]
 name = "CHLTVBroadcast_RecordSnapshot"
 addr = 0x5b1e30
+type = "long long"
 
 [header.args]

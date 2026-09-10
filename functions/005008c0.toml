@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475407Z
+last_change = 2026-09-10T18:36:44.776694Z
 addr = 0x5008c0
 size = 0xf3c
 name = "CNetworkGameServerBase_FillKV3ServerInfo"
+type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_FillKV3ServerInfo"
 addr = 0x5008c0
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475454Z
+last_change = 2026-09-10T18:36:44.776802Z
 addr = 0x513a20
 size = 0x11a
 name = "CNetworkGameServer_RemoveClientFromGame"
+type = "long long"
 
 [header]
 name = "CNetworkGameServer_RemoveClientFromGame"
 addr = 0x513a20
+type = "long long"
 
 [header.args]

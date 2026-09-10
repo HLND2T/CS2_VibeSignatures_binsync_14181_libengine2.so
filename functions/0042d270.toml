@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475253Z
+last_change = 2026-09-10T18:36:44.776339Z
 addr = 0x42d270
 size = 0x1b
 name = "CNetworkClientService_IsConnecting"
+type = "long long"
 
 [header]
 name = "CNetworkClientService_IsConnecting"
 addr = 0x42d270
+type = "long long"
 
 [header.args]

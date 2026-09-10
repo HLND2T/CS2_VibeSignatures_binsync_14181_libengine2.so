@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475509Z
+last_change = 2026-09-10T18:36:44.776939Z
 addr = 0x51a5d0
 size = 0x5
-name = "j_GetSteamUniverse_0"
+name = "CEngineServer_GetSteamUniverse"
+type = "long long"
 
 [header]
-name = "j_GetSteamUniverse_0"
+name = "CEngineServer_GetSteamUniverse"
 addr = 0x51a5d0
+type = "long long"
 
 [header.args]

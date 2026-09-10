@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475079Z
+last_change = 2026-09-10T18:36:44.775883Z
 addr = 0x3667c0
 size = 0x8
 name = "CEngineServiceMgr_GetEventDispatcher"
+type = "long long"
 
 [header]
 name = "CEngineServiceMgr_GetEventDispatcher"
 addr = 0x3667c0
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475596Z
+last_change = 2026-09-10T18:36:47.984361Z
 addr = 0x5dda50
 size = 0x15e
 name = "CPanoramaEngineHandler_OnClientPreOutput"
+type = "long long"
 
 [header]
 name = "CPanoramaEngineHandler_OnClientPreOutput"
 addr = 0x5dda50
+type = "long long"
 
 [header.args]

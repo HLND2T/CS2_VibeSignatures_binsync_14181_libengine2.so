@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475053Z
+last_change = 2026-09-10T18:36:44.775827Z
 addr = 0x34dcf0
 size = 0xc0
 name = "GetSteamUniverse"
+type = "long long"
 
 [header]
 name = "GetSteamUniverse"
 addr = 0x34dcf0
+type = "long long"
 
 [header.args]

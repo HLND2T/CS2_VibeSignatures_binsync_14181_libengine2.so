@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475128Z
+last_change = 2026-09-10T18:36:44.775992Z
 addr = 0x37db00
 size = 0x6df
 name = "ShowFrameTimeReport"
+type = "long long"
 
 [header]
 name = "ShowFrameTimeReport"
 addr = 0x37db00
+type = "long long"
 
 [header.args]

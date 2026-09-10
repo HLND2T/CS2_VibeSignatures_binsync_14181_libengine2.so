@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475370Z
+last_change = 2026-09-10T18:36:44.776600Z
 addr = 0x4f5140
 size = 0x16d
 name = "CNetworkGameServerBase_IsSaveRestoreAllowed"
+type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_IsSaveRestoreAllowed"
 addr = 0x4f5140
+type = "long long"
 
 [header.args]

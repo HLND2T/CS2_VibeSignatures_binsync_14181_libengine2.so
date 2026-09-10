@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475169Z
+last_change = 2026-09-10T18:36:44.776116Z
 addr = 0x3ef580
 size = 0xcd7
 name = "CInputService_ProcessCommand"
+type = "long long"
 
 [header]
 name = "CInputService_ProcessCommand"
 addr = 0x3ef580
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475437Z
+last_change = 2026-09-10T18:36:44.776767Z
 addr = 0x510820
 size = 0x124
 name = "CNetworkGameServerBase_UserInfoChanged"
+type = "void"
 
 [header]
 name = "CNetworkGameServerBase_UserInfoChanged"
 addr = 0x510820
+type = "void"
 
 [header.args]

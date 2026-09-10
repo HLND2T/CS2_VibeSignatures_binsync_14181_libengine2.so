@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475282Z
+last_change = 2026-09-10T18:36:44.776405Z
 addr = 0x4af9a0
 size = 0x9e
 name = "CNetworkGameClientBase_ProcessUpdateStringTable"
+type = "long long"
 
 [header]
 name = "CNetworkGameClientBase_ProcessUpdateStringTable"
 addr = 0x4af9a0
+type = "long long"
 
 [header.args]

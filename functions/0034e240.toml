@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475068Z
+last_change = 2026-09-10T18:36:46.658078Z
 addr = 0x34e240
 size = 0x37a
 name = "InitSteamLogin"
+type = "unsigned long long **"
 
 [header]
 name = "InitSteamLogin"
 addr = 0x34e240
+type = "unsigned long long **"
 
 [header.args]

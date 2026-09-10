@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475194Z
+last_change = 2026-09-10T18:36:44.776188Z
 addr = 0x403f90
 size = 0x64
 name = "CNetworkServerService_OnFrameBoundary"
+type = "void"
 
 [header]
 name = "CNetworkServerService_OnFrameBoundary"
 addr = 0x403f90
+type = "void"
 
 [header.args]

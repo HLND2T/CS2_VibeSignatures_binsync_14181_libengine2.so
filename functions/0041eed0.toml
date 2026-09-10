@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475231Z
+last_change = 2026-09-10T18:36:44.776281Z
 addr = 0x41eed0
 size = 0x3a2
 name = "CGameClientConnectPrerequisite_ctor"
+type = "long long"
 
 [header]
 name = "CGameClientConnectPrerequisite_ctor"
 addr = 0x41eed0
+type = "long long"
 
 [header.args]

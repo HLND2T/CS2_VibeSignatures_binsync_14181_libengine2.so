@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475274Z
+last_change = 2026-09-10T18:36:47.150952Z
 addr = 0x48db60
 size = 0x4ac
 name = "CDemoRecorder_WriteSpawnGroups"
+type = "long long"
 
 [header]
 name = "CDemoRecorder_WriteSpawnGroups"
 addr = 0x48db60
+type = "long long"
 
 [header.args]

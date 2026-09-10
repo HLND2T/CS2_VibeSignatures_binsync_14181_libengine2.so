@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475087Z
+last_change = 2026-09-10T18:36:46.688665Z
 addr = 0x366cc0
 size = 0xbb
 name = "CEngineServiceMgr_Shutdown"
+type = "long long"
 
 [header]
 name = "CEngineServiceMgr_Shutdown"
 addr = 0x366cc0
+type = "long long"
 
 [header.args]

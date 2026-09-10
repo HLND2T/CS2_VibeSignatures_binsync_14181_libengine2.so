@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475175Z
+last_change = 2026-09-10T18:36:44.776138Z
 addr = 0x3f4ae0
 size = 0x2a5
 name = "CMapListService_IsMapValid"
+type = "long long"
 
 [header]
 name = "CMapListService_IsMapValid"
 addr = 0x3f4ae0
+type = "long long"
 
 [header.args]

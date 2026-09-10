@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475460Z
+last_change = 2026-09-10T18:36:47.606285Z
 addr = 0x5140f0
 size = 0x6ba
 name = "CNetworkGameServer_SpawnServer"
+type = "long long"
 
 [header]
 name = "CNetworkGameServer_SpawnServer"
 addr = 0x5140f0
+type = "long long"
 
 [header.args]

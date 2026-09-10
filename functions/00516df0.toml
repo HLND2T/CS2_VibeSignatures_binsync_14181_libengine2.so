@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475462Z
+last_change = 2026-09-10T18:36:44.776821Z
 addr = 0x516df0
 size = 0x73
 name = "CNetworkGameServer_DirectUpdate"
+type = "void"
 
 [header]
 name = "CNetworkGameServer_DirectUpdate"
 addr = 0x516df0
+type = "void"
 
 [header.args]

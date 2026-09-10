@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:53:36.475507Z
+last_change = 2026-09-10T18:36:44.776935Z
 addr = 0x51a4a0
 size = 0xa
 name = "CEngineServer_SetFrameTimeAmnesty"
+type = "long long"
 
 [header]
 name = "CEngineServer_SetFrameTimeAmnesty"
 addr = 0x51a4a0
+type = "long long"
 
 [header.args]
