@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475464Z
+addr = 0x517040
+size = 0x17d
+name = "CNetworkGameServer_PrepareForAssetLoad"
+
+[header]
+name = "CNetworkGameServer_PrepareForAssetLoad"
+addr = 0x517040
+
+[header.args]

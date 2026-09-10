@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475441Z
+addr = 0x511f40
+size = 0x11
+name = "CNetworkGameServerBase_Shutdown"
+
+[header]
+name = "CNetworkGameServerBase_Shutdown"
+addr = 0x511f40
+
+[header.args]

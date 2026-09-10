@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475486Z
+addr = 0x519e70
+size = 0x3f
+name = "CEngineServer_GetPlayerInfo"
+
+[header]
+name = "CEngineServer_GetPlayerInfo"
+addr = 0x519e70
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475327Z
+addr = 0x4db820
+size = 0x15
+name = "CMsgSource2NetworkFlowQuality_PrintStats"
+
+[header]
+name = "CMsgSource2NetworkFlowQuality_PrintStats"
+addr = 0x4db820
+
+[header.args]

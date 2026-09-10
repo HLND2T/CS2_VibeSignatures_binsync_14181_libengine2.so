@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475185Z
+addr = 0x3fc5e0
+size = 0x55
+name = "CNetworkServerService_OnServerBeginSimulate"
+
+[header]
+name = "CNetworkServerService_OnServerBeginSimulate"
+addr = 0x3fc5e0
+
+[header.args]

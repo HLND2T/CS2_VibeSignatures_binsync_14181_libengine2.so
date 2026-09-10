@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475472Z
+addr = 0x518cd0
+size = 0x32f
+name = "CNetworkGameServer_ServerPostSimulate"
+
+[header]
+name = "CNetworkGameServer_ServerPostSimulate"
+addr = 0x518cd0
+
+[header.args]

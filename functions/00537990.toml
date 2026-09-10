@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475559Z
+addr = 0x537990
+size = 0x21d
+name = "CServerSideClient_ctor"
+
+[header]
+name = "CServerSideClient_ctor"
+addr = 0x537990
+
+[header.args]

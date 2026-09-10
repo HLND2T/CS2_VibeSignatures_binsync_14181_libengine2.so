@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475329Z
+addr = 0x4ddf00
+size = 0x13f0
+name = "CNetworkGameClientBase_ClockDrift_AdjustFrameTime"
+
+[header]
+name = "CNetworkGameClientBase_ClockDrift_AdjustFrameTime"
+addr = 0x4ddf00
+
+[header.args]

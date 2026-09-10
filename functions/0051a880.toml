@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475511Z
+addr = 0x51a880
+size = 0xd1
+name = "CEngineServer_SetFakeClientConVarValue"
+
+[header]
+name = "CEngineServer_SetFakeClientConVarValue"
+addr = 0x51a880
+
+[header.args]

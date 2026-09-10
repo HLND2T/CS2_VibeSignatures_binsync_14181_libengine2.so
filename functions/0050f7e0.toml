@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475435Z
+addr = 0x50f7e0
+size = 0x2a0
+name = "CNetworkGameServerBase_ReserveServerForQueuedGame"
+
+[header]
+name = "CNetworkGameServerBase_ReserveServerForQueuedGame"
+addr = 0x50f7e0
+
+[header.args]

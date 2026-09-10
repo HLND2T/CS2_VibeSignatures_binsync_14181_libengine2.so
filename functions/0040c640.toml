@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475214Z
+addr = 0x40c640
+size = 0x1c78
+name = "CNetworkServerService_RegisterEventMapInternal"
+
+[header]
+name = "CNetworkServerService_RegisterEventMapInternal"
+addr = 0x40c640
+
+[header.args]

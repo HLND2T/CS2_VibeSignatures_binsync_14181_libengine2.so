@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475404Z
+addr = 0x4fe190
+size = 0x45a
+name = "CNetworkGameServerBase_ReplyChallenge"
+
+[header]
+name = "CNetworkGameServerBase_ReplyChallenge"
+addr = 0x4fe190
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475231Z
+addr = 0x41eed0
+size = 0x3a2
+name = "CGameClientConnectPrerequisite_ctor"
+
+[header]
+name = "CGameClientConnectPrerequisite_ctor"
+addr = 0x41eed0
+
+[header.args]

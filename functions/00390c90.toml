@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475136Z
+addr = 0x390c90
+size = 0xe7
+name = "CLoopTypeClientServer_DeactivateLoop"
+
+[header]
+name = "CLoopTypeClientServer_DeactivateLoop"
+addr = 0x390c90
+
+[header.args]

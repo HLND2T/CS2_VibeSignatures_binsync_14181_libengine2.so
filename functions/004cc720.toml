@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:39.054271Z
+addr = 0x4cc720
+size = 0xb6e
+name = "CNetworkGameClientBase_ProcessSpawnGroup_Load"
+
+[header]
+name = "CNetworkGameClientBase_ProcessSpawnGroup_Load"
+addr = 0x4cc720
+
+[header.args]

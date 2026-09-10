@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475561Z
+addr = 0x53d1e0
+size = 0x1c2
+name = "CServerSideClient_ActivatePlayer"
+
+[header]
+name = "CServerSideClient_ActivatePlayer"
+addr = 0x53d1e0
+
+[header.args]

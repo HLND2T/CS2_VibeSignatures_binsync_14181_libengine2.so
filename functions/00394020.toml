@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475139Z
+addr = 0x394020
+size = 0x5e5
+name = "CLoopTypeClientServer_AdvanceTime"
+
+[header]
+name = "CLoopTypeClientServer_AdvanceTime"
+addr = 0x394020
+
+[header.args]

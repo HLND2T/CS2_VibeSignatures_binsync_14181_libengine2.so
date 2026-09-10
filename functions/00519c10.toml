@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475484Z
+addr = 0x519c10
+size = 0x53
+name = "CEngineServer_KickClient"
+
+[header]
+name = "CEngineServer_KickClient"
+addr = 0x519c10
+
+[header.args]

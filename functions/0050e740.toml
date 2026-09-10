@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475432Z
+addr = 0x50e740
+size = 0x216
+name = "CNetworkGameServerBase_AsyncUnloadSpawnGroup"
+
+[header]
+name = "CNetworkGameServerBase_AsyncUnloadSpawnGroup"
+addr = 0x50e740
+
+[header.args]

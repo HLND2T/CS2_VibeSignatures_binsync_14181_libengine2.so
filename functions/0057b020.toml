@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475576Z
+addr = 0x57b020
+size = 0x47d
+name = "CSteam3ServerS1_InitGameServer"
+
+[header]
+name = "CSteam3ServerS1_InitGameServer"
+addr = 0x57b020
+
+[header.args]

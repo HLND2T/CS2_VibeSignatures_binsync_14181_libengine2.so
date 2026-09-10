@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475386Z
+addr = 0x4f7090
+size = 0x23e
+name = "CNetworkGameServerBase_ServerPollNetworking"
+
+[header]
+name = "CNetworkGameServerBase_ServerPollNetworking"
+addr = 0x4f7090
+
+[header.args]

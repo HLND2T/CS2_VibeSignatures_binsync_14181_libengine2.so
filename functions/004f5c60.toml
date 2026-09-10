@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475376Z
+addr = 0x4f5c60
+size = 0x222
+name = "CNetworkGameServerBase_ServerAdvanceTick"
+
+[header]
+name = "CNetworkGameServerBase_ServerAdvanceTick"
+addr = 0x4f5c60
+
+[header.args]

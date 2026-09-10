@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475594Z
+addr = 0x5da2a0
+size = 0x76
+name = "CEngineGameUI_Shutdown"
+
+[header]
+name = "CEngineGameUI_Shutdown"
+addr = 0x5da2a0
+
+[header.args]

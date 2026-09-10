@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475244Z
+addr = 0x42cd20
+size = 0x2a8
+name = "CNetworkClientService_OnStatus"
+
+[header]
+name = "CNetworkClientService_OnStatus"
+addr = 0x42cd20
+
+[header.args]

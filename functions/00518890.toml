@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475466Z
+addr = 0x518890
+size = 0x24e
+name = "CNetworkGameServer_Init"
+
+[header]
+name = "CNetworkGameServer_Init"
+addr = 0x518890
+
+[header.args]

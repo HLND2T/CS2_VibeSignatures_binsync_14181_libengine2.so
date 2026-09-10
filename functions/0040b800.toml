@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475212Z
+addr = 0x40b800
+size = 0x15b
+name = "CNetworkServerService_OnSimpleLoopFrameUpdate"
+
+[header]
+name = "CNetworkServerService_OnSimpleLoopFrameUpdate"
+addr = 0x40b800
+
+[header.args]

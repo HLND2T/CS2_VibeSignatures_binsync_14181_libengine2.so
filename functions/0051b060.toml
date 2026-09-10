@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475512Z
+addr = 0x51b060
+size = 0x5f
+name = "CEngineServer_GetPlayerNetInfo"
+
+[header]
+name = "CEngineServer_GetPlayerNetInfo"
+addr = 0x51b060
+
+[header.args]

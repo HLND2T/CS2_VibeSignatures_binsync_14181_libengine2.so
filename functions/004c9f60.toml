@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475302Z
+addr = 0x4c9f60
+size = 0x450
+name = "CNetworkGameClientBase_DisconnectGame"
+
+[header]
+name = "CNetworkGameClientBase_DisconnectGame"
+addr = 0x4c9f60
+
+[header.args]

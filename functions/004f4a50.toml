@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475366Z
+addr = 0x4f4a50
+size = 0x8
+name = "CNetworkGameServerBase_IsChangelevelPending"
+
+[header]
+name = "CNetworkGameServerBase_IsChangelevelPending"
+addr = 0x4f4a50
+
+[header.args]

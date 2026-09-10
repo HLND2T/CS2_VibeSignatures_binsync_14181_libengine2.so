@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475421Z
+addr = 0x507d00
+size = 0x2341
+name = "CNetworkGameServerBase_ConnectClient"
+
+[header]
+name = "CNetworkGameServerBase_ConnectClient"
+addr = 0x507d00
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475503Z
+addr = 0x51a470
+size = 0xd
+name = "CEngineServer_ShowFrameTimeReport"
+
+[header]
+name = "CEngineServer_ShowFrameTimeReport"
+addr = 0x51a470
+
+[header.args]

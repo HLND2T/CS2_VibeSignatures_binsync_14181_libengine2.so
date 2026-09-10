@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475094Z
+addr = 0x367450
+size = 0xa6
+name = "CEngineServiceMgr_OnFrameRenderingFinished"
+
+[header]
+name = "CEngineServiceMgr_OnFrameRenderingFinished"
+addr = 0x367450
+
+[header.args]

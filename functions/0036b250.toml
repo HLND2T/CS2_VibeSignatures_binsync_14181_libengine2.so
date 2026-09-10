@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:53:36.475100Z
+addr = 0x36b250
+size = 0xca9
+name = "CEngineServiceMgr__MainLoop"
+
+[header]
+name = "CEngineServiceMgr__MainLoop"
+addr = 0x36b250
+
+[header.args]
