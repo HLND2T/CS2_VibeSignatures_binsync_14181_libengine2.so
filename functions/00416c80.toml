@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776251Z
+last_change = 2026-09-11T03:32:58.381137Z
 addr = 0x416c80
 size = 0x207
 name = "CNetworkServerService_DisconnectGameNow"
-type = "long long"
 
 [header]
 name = "CNetworkServerService_DisconnectGameNow"
 addr = 0x416c80
-type = "long long"
 
 [header.args]

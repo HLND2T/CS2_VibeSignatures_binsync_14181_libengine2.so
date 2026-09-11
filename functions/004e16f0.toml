@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.284773Z
+last_change = 2026-09-11T03:32:58.381387Z
 addr = 0x4e16f0
 size = 0x83e
 name = "CNetworkGameClient_SendMovePacket"
-type = "long long"
 
 [header]
 name = "CNetworkGameClient_SendMovePacket"
 addr = 0x4e16f0
-type = "long long"
 
 [header.args]

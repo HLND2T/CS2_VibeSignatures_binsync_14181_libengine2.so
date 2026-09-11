@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776261Z
+last_change = 2026-09-11T03:32:58.381147Z
 addr = 0x4171b0
 size = 0x23
 name = "CNetworkClientService_IsActive"
-type = "bool"
 
 [header]
 name = "CNetworkClientService_IsActive"
 addr = 0x4171b0
-type = "bool"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776959Z
+last_change = 2026-09-11T03:32:58.381822Z
 addr = 0x51bd10
 size = 0x33b
 name = "CEngineServer_ClientCommandKeyValues"
-type = "long long"
 
 [header]
 name = "CEngineServer_ClientCommandKeyValues"
 addr = 0x51bd10
-type = "long long"
 
 [header.args]

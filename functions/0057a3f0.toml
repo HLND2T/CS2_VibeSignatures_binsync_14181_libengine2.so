@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.918135Z
+last_change = 2026-09-11T03:32:58.381997Z
 addr = 0x57a3f0
 size = 0x29c
 name = "CSteam3ServerS1_ShutdownGameServer"
-type = "long long"
 
 [header]
 name = "CSteam3ServerS1_ShutdownGameServer"
 addr = 0x57a3f0
-type = "long long"
 
 [header.args]

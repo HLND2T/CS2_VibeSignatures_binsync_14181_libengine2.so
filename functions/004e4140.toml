@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.294124Z
+last_change = 2026-09-11T03:32:58.381397Z
 addr = 0x4e4140
 size = 0x1ac1
 name = "CNetworkGameClientBase__ProcessNetworking"
-type = "void"
 
 [header]
 name = "CNetworkGameClientBase__ProcessNetworking"
 addr = 0x4e4140
-type = "void"
 
 [header.args]

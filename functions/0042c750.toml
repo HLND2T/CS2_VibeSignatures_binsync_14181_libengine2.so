@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776306Z
+last_change = 2026-09-11T03:32:58.381192Z
 addr = 0x42c750
 size = 0x117
 name = "CNetworkClientService_Shutdown"
-type = "long long"
 
 [header]
 name = "CNetworkClientService_Shutdown"
 addr = 0x42c750
-type = "long long"
 
 [header.args]

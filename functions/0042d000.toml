@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776320Z
+last_change = 2026-09-11T03:32:58.381207Z
 addr = 0x42d000
 size = 0x5a
 name = "CNetworkClientService_PrintSpawnGroupStatus"
-type = "long long"
 
 [header]
 name = "CNetworkClientService_PrintSpawnGroupStatus"
 addr = 0x42d000
-type = "long long"
 
 [header.args]

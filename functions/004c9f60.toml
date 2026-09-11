@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776456Z
+last_change = 2026-09-11T03:32:58.381333Z
 addr = 0x4c9f60
 size = 0x450
 name = "CNetworkGameClientBase_DisconnectGame"
-type = "void"
 
 [header]
 name = "CNetworkGameClientBase_DisconnectGame"
 addr = 0x4c9f60
-type = "void"
 
 [header.args]

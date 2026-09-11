@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776171Z
+last_change = 2026-09-11T03:32:58.381060Z
 addr = 0x4009f0
 size = 0x56
 name = "CNetworkServerService_SetFinalSimulationTickThisFrame"
-type = "long long"
 
 [header]
 name = "CNetworkServerService_SetFinalSimulationTickThisFrame"
 addr = 0x4009f0
-type = "long long"
 
 [header.args]

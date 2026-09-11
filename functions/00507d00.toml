@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.508524Z
+last_change = 2026-09-11T03:32:58.381590Z
 addr = 0x507d00
 size = 0x2341
 name = "CNetworkGameServerBase_ConnectClient"
-type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_ConnectClient"
 addr = 0x507d00
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776787Z
+last_change = 2026-09-11T03:32:58.381649Z
 addr = 0x5133a0
 size = 0x59
 name = "CNetworkGameServer_GetPlayerNetworkIDString"
-type = "void *"
 
 [header]
 name = "CNetworkGameServer_GetPlayerNetworkIDString"
 addr = 0x5133a0
-type = "void *"
 
 [header.args]

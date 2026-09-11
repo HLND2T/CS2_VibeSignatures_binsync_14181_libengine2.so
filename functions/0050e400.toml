@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776749Z
+last_change = 2026-09-11T03:32:58.381610Z
 addr = 0x50e400
 size = 0x338
 name = "CNetworkGameServerBase_AsyncUnloadSpawnGroupInternal"
-type = "void"
 
 [header]
 name = "CNetworkGameServerBase_AsyncUnloadSpawnGroupInternal"
 addr = 0x50e400
-type = "void"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.777139Z
+last_change = 2026-09-11T03:32:58.382043Z
 addr = 0x5a1780
 size = 0x5c5
 name = "CHLTVClient_ProcessSetConVar"
-type = "long long"
 
 [header]
 name = "CHLTVClient_ProcessSetConVar"
 addr = 0x5a1780
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:46.940519Z
+last_change = 2026-09-11T03:32:58.381071Z
 addr = 0x400be0
 size = 0x119a
 name = "CNetworkServerService_Init"
-type = "long long"
 
 [header]
 name = "CNetworkServerService_Init"
 addr = 0x400be0
-type = "long long"
 
 [header.args]

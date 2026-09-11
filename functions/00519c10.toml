@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776877Z
+last_change = 2026-09-11T03:32:58.381739Z
 addr = 0x519c10
 size = 0x53
 name = "CEngineServer_KickClient"
-type = "void"
 
 [header]
 name = "CEngineServer_KickClient"
 addr = 0x519c10
-type = "void"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:46.956584Z
+last_change = 2026-09-11T03:32:58.381087Z
 addr = 0x404920
 size = 0xbb
 name = "CNetworkServerService_OnServerProcessNetworking"
-type = "long long"
 
 [header]
 name = "CNetworkServerService_OnServerProcessNetworking"
 addr = 0x404920
-type = "long long"
 
 [header.args]

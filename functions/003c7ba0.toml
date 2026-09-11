@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776046Z
+last_change = 2026-09-11T03:32:58.380962Z
 addr = 0x3c7ba0
 size = 0x7a
 name = "CGameResourceService_DescribeContents"
-type = "long long"
 
 [header]
 name = "CGameResourceService_DescribeContents"
 addr = 0x3c7ba0
-type = "long long"
 
 [header.args]

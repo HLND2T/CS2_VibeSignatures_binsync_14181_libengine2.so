@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776994Z
+last_change = 2026-09-11T03:32:58.381857Z
 addr = 0x524c30
 size = 0x152
 name = "CServerSideClientBase_ProcessTick"
-type = "long long"
 
 [header]
 name = "CServerSideClientBase_ProcessTick"
 addr = 0x524c30
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776052Z
+last_change = 2026-09-11T03:32:58.380968Z
 addr = 0x3c8bd0
 size = 0x159
 name = "CGameResourceService_AllocGameResourceManifest"
-type = "unsigned long long *"
 
 [header]
 name = "CGameResourceService_AllocGameResourceManifest"
 addr = 0x3c8bd0
-type = "unsigned long long *"
 
 [header.args]

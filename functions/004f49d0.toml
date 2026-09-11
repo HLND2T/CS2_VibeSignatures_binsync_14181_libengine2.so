@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776580Z
+last_change = 2026-09-11T03:32:58.381449Z
 addr = 0x4f49d0
 size = 0x7
 name = "CNetworkGameServerBase_GetMaxClients"
-type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_GetMaxClients"
 addr = 0x4f49d0
-type = "long long"
 
 [header.args]

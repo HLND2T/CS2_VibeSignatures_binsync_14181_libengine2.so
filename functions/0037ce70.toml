@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.775987Z
+last_change = 2026-09-11T03:32:58.380903Z
 addr = 0x37ce70
 size = 0x265
 name = "SetFrameTimeAmnesty"
-type = "long long"
 
 [header]
 name = "SetFrameTimeAmnesty"
 addr = 0x37ce70
-type = "long long"
 
 [header.args]

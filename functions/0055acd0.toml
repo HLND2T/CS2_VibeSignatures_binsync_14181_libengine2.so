@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.777093Z
+last_change = 2026-09-11T03:32:58.381991Z
 addr = 0x55acd0
 size = 0x67
 name = "CLog_Print"
-type = "void"
 
 [header]
 name = "CLog_Print"
 addr = 0x55acd0
-type = "void"
 
 [header.args]

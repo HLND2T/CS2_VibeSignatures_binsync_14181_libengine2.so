@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.519392Z
+last_change = 2026-09-11T03:32:58.381600Z
 addr = 0x50d0f0
 size = 0x440
 name = "CNetworkGameServerBase_ServerSimulate"
-type = "void"
 
 [header]
 name = "CNetworkGameServerBase_ServerSimulate"
 addr = 0x50d0f0
-type = "void"
 
 [header.args]

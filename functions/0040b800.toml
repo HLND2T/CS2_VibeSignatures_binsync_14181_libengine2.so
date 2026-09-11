@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776236Z
+last_change = 2026-09-11T03:32:58.381123Z
 addr = 0x40b800
 size = 0x15b
 name = "CNetworkServerService_OnSimpleLoopFrameUpdate"
-type = "long long (*)(void)"
 
 [header]
 name = "CNetworkServerService_OnSimpleLoopFrameUpdate"
 addr = 0x40b800
-type = "long long (*)(void)"
 
 [header.args]

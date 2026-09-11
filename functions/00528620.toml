@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.777018Z
+last_change = 2026-09-11T03:32:58.381888Z
 addr = 0x528620
 size = 0x142
 name = "CServerSideClientBase_ProcessBaselineAck"
-type = "long long"
 
 [header]
 name = "CServerSideClientBase_ProcessBaselineAck"
 addr = 0x528620
-type = "long long"
 
 [header.args]

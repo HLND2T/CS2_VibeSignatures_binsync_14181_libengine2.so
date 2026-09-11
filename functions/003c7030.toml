@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776040Z
+last_change = 2026-09-11T03:32:58.380956Z
 addr = 0x3c7030
 size = 0x22
 name = "CGameResourceService_GetResourceManifestDebugName"
-type = "const char *"
 
 [header]
 name = "CGameResourceService_GetResourceManifestDebugName"
 addr = 0x3c7030
-type = "const char *"
 
 [header.args]

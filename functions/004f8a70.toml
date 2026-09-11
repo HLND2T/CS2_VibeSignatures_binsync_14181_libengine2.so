@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.422505Z
+last_change = 2026-09-11T03:32:58.381514Z
 addr = 0x4f8a70
 size = 0x426
 name = "CNetworkGameServerBase_SendPeerList"
-type = "void"
 
 [header]
 name = "CNetworkGameServerBase_SendPeerList"
 addr = 0x4f8a70
-type = "void"
 
 [header.args]

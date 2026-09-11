@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.777023Z
+last_change = 2026-09-11T03:32:58.381892Z
 addr = 0x528d10
 size = 0xe1
 name = "CServerSideClientBase_GetUserIDString"
-type = "unsigned long long *"
 
 [header]
 name = "CServerSideClientBase_GetUserIDString"
 addr = 0x528d10
-type = "unsigned long long *"
 
 [header.args]

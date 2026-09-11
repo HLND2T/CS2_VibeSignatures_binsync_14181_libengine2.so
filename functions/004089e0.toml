@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:46.972706Z
+last_change = 2026-09-11T03:32:58.381102Z
 addr = 0x4089e0
 size = 0x6e8
 name = "CNetworkClientSpawnGroupCreatePrerequisites_GetStatus"
-type = "long long"
 
 [header]
 name = "CNetworkClientSpawnGroupCreatePrerequisites_GetStatus"
 addr = 0x4089e0
-type = "long long"
 
 [header.args]

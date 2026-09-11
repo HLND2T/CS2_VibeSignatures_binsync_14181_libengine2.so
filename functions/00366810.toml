@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:46.677972Z
+last_change = 2026-09-11T03:32:58.380798Z
 addr = 0x366810
 size = 0x23
 name = "CEngineServiceMgr_GetActiveLoopClientServerMode"
-type = "long long"
 
 [header]
 name = "CEngineServiceMgr_GetActiveLoopClientServerMode"
 addr = 0x366810
-type = "long long"
 
 [header.args]

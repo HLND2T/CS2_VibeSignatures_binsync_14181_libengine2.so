@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776162Z
+last_change = 2026-09-11T03:32:58.381050Z
 addr = 0x3fa480
 size = 0x19
 name = "CNetworkServerService_OnServerEndSimulate"
-type = "long long"
 
 [header]
 name = "CNetworkServerService_OnServerEndSimulate"
 addr = 0x3fa480
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.161692Z
+last_change = 2026-09-11T03:32:58.381275Z
 addr = 0x49c380
 size = 0x239
 name = "CNetworkGameClient_RecordEntityBandwidth"
-type = "void"
 
 [header]
 name = "CNetworkGameClient_RecordEntityBandwidth"
 addr = 0x49c380
-type = "void"
 
 [header.args]

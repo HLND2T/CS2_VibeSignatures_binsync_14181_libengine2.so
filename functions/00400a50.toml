@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776176Z
+last_change = 2026-09-11T03:32:58.381065Z
 addr = 0x400a50
 size = 0x8c
 name = "CNetworkServerService_OnKickByIdHLTV"
-type = "long long"
 
 [header]
 name = "CNetworkServerService_OnKickByIdHLTV"
 addr = 0x400a50
-type = "long long"
 
 [header.args]

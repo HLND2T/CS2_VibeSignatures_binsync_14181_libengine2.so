@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.777153Z
+last_change = 2026-09-11T03:32:58.382066Z
 addr = 0x5da2a0
 size = 0x76
 name = "CEngineGameUI_Shutdown"
-type = "unsigned long long *"
 
 [header]
 name = "CEngineGameUI_Shutdown"
 addr = 0x5da2a0
-type = "unsigned long long *"
 
 [header.args]

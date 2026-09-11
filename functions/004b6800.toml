@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776419Z
+last_change = 2026-09-11T03:32:58.381300Z
 addr = 0x4b6800
 size = 0x16
 name = "CNetworkGameClientBase_ProcessSpawnGroup_ManifestUpdate"
-type = "long long"
 
 [header]
 name = "CNetworkGameClientBase_ProcessSpawnGroup_ManifestUpdate"
 addr = 0x4b6800
-type = "long long"
 
 [header.args]

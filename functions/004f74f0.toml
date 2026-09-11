@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776645Z
+last_change = 2026-09-11T03:32:58.381510Z
 addr = 0x4f74f0
 size = 0x416
 name = "CNetworkGameServerBase_BroadcastPrintf"
-type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_BroadcastPrintf"
 addr = 0x4f74f0
-type = "long long"
 
 [header.args]

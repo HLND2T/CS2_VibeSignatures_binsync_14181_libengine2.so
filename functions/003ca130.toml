@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776069Z
+last_change = 2026-09-11T03:32:58.380985Z
 addr = 0x3ca130
 size = 0x1da
 name = "CGameResourceService_LoadGameResourceManifest_IEntityResourceManifest"
-type = "long long"
 
 [header]
 name = "CGameResourceService_LoadGameResourceManifest_IEntityResourceManifest"
 addr = 0x3ca130
-type = "long long"
 
 [header.args]

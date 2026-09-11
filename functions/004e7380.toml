@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.306199Z
+last_change = 2026-09-11T03:32:58.381407Z
 addr = 0x4e7380
 size = 0x4d2
 name = "CNetworkGameClient_DisconnectGame"
-type = "long long"
 
 [header]
 name = "CNetworkGameClient_DisconnectGame"
 addr = 0x4e7380
-type = "long long"
 
 [header.args]

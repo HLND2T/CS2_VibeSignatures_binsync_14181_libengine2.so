@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.775982Z
+last_change = 2026-09-11T03:32:58.380897Z
 addr = 0x37c880
 size = 0x42a
 name = "CLoopTypeClientServer_AllocateLoopMode"
-type = "long long"
 
 [header]
 name = "CLoopTypeClientServer_AllocateLoopMode"
 addr = 0x37c880
-type = "long long"
 
 [header.args]

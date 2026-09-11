@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776492Z
+last_change = 2026-09-11T03:32:58.381366Z
 addr = 0x4d3af0
 size = 0x74
 name = "Callback_GenericChanged"
-type = "void"
 
 [header]
 name = "Callback_GenericChanged"
 addr = 0x4d3af0
-type = "void"
 
 [header.args]

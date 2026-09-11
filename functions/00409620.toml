@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776221Z
+last_change = 2026-09-11T03:32:58.381107Z
 addr = 0x409620
 size = 0x111
 name = "CNetworkServerService_AddServerPrerequisites"
-type = "void"
 
 [header]
 name = "CNetworkServerService_AddServerPrerequisites"
 addr = 0x409620
-type = "void"
 
 [header.args]

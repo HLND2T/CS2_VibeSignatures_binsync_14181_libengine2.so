@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776777Z
+last_change = 2026-09-11T03:32:58.381639Z
 addr = 0x511f40
 size = 0x11
 name = "CNetworkGameServerBase_Shutdown"
-type = "unsigned long long *"
 
 [header]
 name = "CNetworkGameServerBase_Shutdown"
 addr = 0x511f40
-type = "unsigned long long *"
 
 [header.args]

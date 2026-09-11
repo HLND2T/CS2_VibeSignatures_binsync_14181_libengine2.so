@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776605Z
+last_change = 2026-09-11T03:32:58.381472Z
 addr = 0x4f5480
 size = 0x81
 name = "CNetworkGameServerBase_SetGameSpawnGroupMgr"
-type = "void"
 
 [header]
 name = "CNetworkGameServerBase_SetGameSpawnGroupMgr"
 addr = 0x4f5480
-type = "void"
 
 [header.args]

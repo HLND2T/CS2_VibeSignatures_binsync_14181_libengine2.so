@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.874031Z
+last_change = 2026-09-11T03:33:01.506697Z
 addr = 0x5348a0
 size = 0x5f2
 name = "CServerSideClientBase_dtor"
-type = "long long"
 
 [header]
 name = "CServerSideClientBase_dtor"
 addr = 0x5348a0
-type = "long long"
 
 [header.args]

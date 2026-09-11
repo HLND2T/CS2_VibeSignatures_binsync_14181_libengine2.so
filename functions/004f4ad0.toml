@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776595Z
+last_change = 2026-09-11T03:32:58.381463Z
 addr = 0x4f4ad0
 size = 0x26
 name = "CNetworkGameServerBase_GetClientConnectionType"
-type = "long long"
 
 [header]
 name = "CNetworkGameServerBase_GetClientConnectionType"
 addr = 0x4f4ad0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:46.807784Z
+last_change = 2026-09-11T03:32:58.380933Z
 addr = 0x394020
 size = 0x5e5
 name = "CLoopTypeClientServer_AdvanceTime"
-type = "long long"
 
 [header]
 name = "CLoopTypeClientServer_AdvanceTime"
 addr = 0x394020
-type = "long long"
 
 [header.args]

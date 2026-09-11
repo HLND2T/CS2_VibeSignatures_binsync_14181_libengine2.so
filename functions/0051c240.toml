@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776969Z
+last_change = 2026-09-11T03:32:58.381832Z
 addr = 0x51c240
 size = 0x3d
 name = "CEngineServer_ChangeLevel"
-type = "unsigned long long *"
 
 [header]
 name = "CEngineServer_ChangeLevel"
 addr = 0x51c240
-type = "unsigned long long *"
 
 [header.args]

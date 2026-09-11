@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776949Z
+last_change = 2026-09-11T03:32:58.381812Z
 addr = 0x51b060
 size = 0x5f
 name = "CEngineServer_GetPlayerNetInfo"
-type = "long long"
 
 [header]
 name = "CEngineServer_GetPlayerNetInfo"
 addr = 0x51b060
-type = "long long"
 
 [header.args]

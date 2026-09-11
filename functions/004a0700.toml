@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776399Z
+last_change = 2026-09-11T03:32:58.381280Z
 addr = 0x4a0700
 size = 0xc31
 name = "CNetworkGameClient_ProcessPacketEntities"
-type = "long long"
 
 [header]
 name = "CNetworkGameClient_ProcessPacketEntities"
 addr = 0x4a0700
-type = "long long"
 
 [header.args]

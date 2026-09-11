@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.923821Z
+last_change = 2026-09-11T03:32:58.382003Z
 addr = 0x57a930
 size = 0x276
 name = "CSteam3Server_SendUpdatedServerDetails"
-type = "long long"
 
 [header]
 name = "CSteam3Server_SendUpdatedServerDetails"
 addr = 0x57a930
-type = "long long"
 
 [header.args]

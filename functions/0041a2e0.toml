@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:44.776271Z
+last_change = 2026-09-11T03:32:58.381157Z
 addr = 0x41a2e0
 size = 0x21
 name = "CNetworkClientService_ClockDriftAdjustFrameTime"
-type = "double"
 
 [header]
 name = "CNetworkClientService_ClockDriftAdjustFrameTime"
 addr = 0x41a2e0
-type = "double"
 
 [header.args]

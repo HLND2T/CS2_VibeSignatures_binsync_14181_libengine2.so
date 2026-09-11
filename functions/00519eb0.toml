@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.683895Z
+last_change = 2026-09-11T03:32:58.381749Z
 addr = 0x519eb0
 size = 0xa5
 name = "CEngineServer_ClientPrintf"
-type = "long long"
 
 [header]
 name = "CEngineServer_ClientPrintf"
 addr = 0x519eb0
-type = "long long"
 
 [header.args]

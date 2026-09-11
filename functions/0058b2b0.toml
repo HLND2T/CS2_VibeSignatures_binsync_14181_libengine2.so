@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:47.947417Z
+last_change = 2026-09-11T03:32:58.382026Z
 addr = 0x58b2b0
 size = 0x54
 name = "CInputService_IsClientOnlyCommandAllowed"
-type = "long long"
 
 [header]
 name = "CInputService_IsClientOnlyCommandAllowed"
 addr = 0x58b2b0
-type = "long long"
 
 [header.args]
